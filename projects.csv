@@ -1,0 +1,5 @@
+Project_ID,Descr,Start_Date,Day_of_week,Planned_End_Date,Actual_End_date,Budget,Client_ID
+401,Inventory,01-Apr-11,Fri,01-Oct-11,31-Oct-11,150000,1001
+402,Accounting,01-Aug-11,Mon,01-Jan-12,,500000,1002
+403,Payroll,01-Oct-11,Sat,31-Dec-11,,75000,1003
+404,Contact Mgmt,01-Nov-11,Tue,31-Dec-11,,50000,1004
